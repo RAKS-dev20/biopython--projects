@@ -1,0 +1,5 @@
+Sequence_ID	Length	GC_content(%)	AC_content(%)
+seq1_human_gene	39	56.41
+seq2_mouse_gene	30	50.00
+seq3_bacterial_gene	30	50.00
+seq4_viral_gene	23	43.48
